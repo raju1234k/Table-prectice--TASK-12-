@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title> Table prectice  </title>
+</head>
+<body>
+    <table border="2 " width="500px" >
+        <tr>
+            <th colspan="5" bgcolor="green"> STUDENT INFORMATION </th>
+        </tr>
+         <tr bgcolor="red">
+             <th bgcolor="pink"> Srl. No. </th>  
+            <th> Student Name  </th>
+            <th bgcolor="gray"> Branch </th>
+            <th bgcolor="white"> Email Id </th>
+            <th> Session </th>
+         </tr>
+         <tr bgcolor="red">
+            <th bgcolor="pink"> 01 </th>  
+           <th> Raju kumar </th>
+           <th bgcolor="gray"> Cse  </th>
+           <th bgcolor="white"> kumarr*****@gmail.com </th>
+           <th> 2k21-2k25</th>
+        </tr>
+        <tr bgcolor="red">
+            <th bgcolor="pink"> 02 </th>  
+           <th> Shivam  </th>
+           <th bgcolor="gray" >Cse </th>
+           <th bgcolor="white"> shivam*****@gmail.com </th>
+           <th> 2k21-2k25 </th>
+        </tr>
+        <tr bgcolor="red">
+            <th bgcolor="pink"> 03 </th>  
+           <th> Rajeev  </th>
+           <th bgcolor="gray"> Mech </th>
+           <th bgcolor="white"> rajiv*****@gmail,com</th>
+           <th> 2k21-2k25 </th>
+        </tr>
+        <tr bgcolor="red">
+            <th bgcolor="pink"> 04 </th>  
+           <th> Mukesh kumar  </th>
+           <th bgcolor="gray">  Cse</th>
+           <th bgcolor="white"> mukesh*****@gmail.com</th>
+           <th> 2k21-2k25</th>
+        </tr>
+        <tr bgcolor="red">
+            <th bgcolor="pink"> 05</th>  
+           <th> Sumit kumar   </th>
+           <th bgcolor="gray"> Cse  </th>
+           <th bgcolor="white"> sumitranjan@gmil.com </th>
+           <th> 2k21-2k25</th>
+        </tr>
+        <tr bgcolor="red">
+            <th bgcolor="pink"> 06</th>  
+           <th> Nitish Raj  </th>
+           <th bgcolor="gray"> EEE</th>
+           <th bgcolor="white"> nitya@gmail.com </th>
+           <th> 2k21-2k25</th>
+        </tr >
+        <tr bgcolor="red">
+            <th bgcolor="pink"> 07</th>  
+           <th> Raman Raj </th>
+           <th bgcolor="gray"> Civil</th>
+           <th bgcolor="white" > rajaryan@gmail.com </th>
+           <th> 2k21-2k25</th>
+        </tr>
+        <tr bgcolor="red">
+            <th bgcolor="pink"> 08</th>  
+           <th> Sonia kumari </th>
+           <th bgcolor="gray"> EEE</th>
+           <th bgcolor="white"> sonikumari@gmail.com </th>
+           <th> 2k21-2k25 </th>
+        </tr>
+    </table>
+</body>
+</html>
